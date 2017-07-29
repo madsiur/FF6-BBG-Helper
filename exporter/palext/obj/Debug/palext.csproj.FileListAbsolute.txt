@@ -1,0 +1,12 @@
+C:\Users\Fred\Desktop\drakkhen\backgrounds\palettes\palext\palext\bin\Debug\palext.exe.config
+C:\Users\Fred\Desktop\drakkhen\backgrounds\palettes\palext\palext\bin\Debug\palext.exe
+C:\Users\Fred\Desktop\drakkhen\backgrounds\palettes\palext\palext\bin\Debug\palext.pdb
+C:\Users\Fred\Desktop\drakkhen\backgrounds\palettes\palext\palext\obj\Debug\palext.csprojResolveAssemblyReference.cache
+C:\Users\Fred\Desktop\drakkhen\backgrounds\palettes\palext\palext\obj\Debug\palext.exe
+C:\Users\Fred\Desktop\drakkhen\backgrounds\palettes\palext\palext\obj\Debug\palext.pdb
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\export\palext\palext\obj\Debug\palext.csprojResolveAssemblyReference.cache
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\export\palext\palext\bin\Debug\exporter.exe.config
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\export\palext\palext\bin\Debug\exporter.exe
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\export\palext\palext\bin\Debug\exporter.pdb
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\export\palext\palext\obj\Debug\exporter.exe
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\export\palext\palext\obj\Debug\exporter.pdb

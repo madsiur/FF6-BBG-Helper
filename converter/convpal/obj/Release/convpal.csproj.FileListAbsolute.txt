@@ -1,0 +1,5 @@
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\bin\Release\converter.exe.config
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\bin\Release\converter.exe
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\bin\Release\converter.pdb
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\obj\Release\converter.exe
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\obj\Release\converter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\obj\Debug\convpal.csprojResolveAssemblyReference.cache
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\bin\Debug\converter.exe.config
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\bin\Debug\converter.exe
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\bin\Debug\converter.pdb
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\obj\Debug\converter.exe
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\convert\convpal\convpal\obj\Debug\converter.pdb

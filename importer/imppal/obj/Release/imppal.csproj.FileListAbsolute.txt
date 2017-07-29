@@ -1,0 +1,6 @@
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\import\imppal\imppal\bin\Release\importer.exe.config
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\import\imppal\imppal\bin\Release\importer.exe
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\import\imppal\imppal\bin\Release\importer.pdb
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\import\imppal\imppal\obj\Release\imppal.csprojResolveAssemblyReference.cache
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\import\imppal\imppal\obj\Release\importer.exe
+C:\Users\Fred\Desktop\drakkhen\backgrounds\pals\import\imppal\imppal\obj\Release\importer.pdb
