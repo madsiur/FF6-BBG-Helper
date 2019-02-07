@@ -18,8 +18,8 @@ palettes, simply place a headerless FF3us ROM in the same folder as the
 exporter and double click on the exporter executable. A folder with your ROM 
 name will be created with all the palettes files inside.
 
-#2 Image Converter
-------------------
+## Image Converter
+
 Located in the "image converter" folder. In order for the background image to 
 have the same palette order than the ROM, we need to convert existing BBGs rips 
 from non-8bpp-indexed PNG format to 8bpp indexed 256 format with correct palette 
@@ -32,8 +32,8 @@ succesfull conversion. You therefore can have the 54 palettes files and 54 BBG r
 in the same folder as the converter and launch all images conversions at once by 
 clicking on the converter. 
 
-#3 Palette Importer
--------------------
+## Palette Importer
+
 Put you exported Gimp .txt palette file(s) in the "palette importer folder". 
 Your palette file must be named "BG_XX.txt" where XX is the FF3us ID of the BBG you 
 just edited in gimp. You also need your ROM in the same folder as the importer. 
