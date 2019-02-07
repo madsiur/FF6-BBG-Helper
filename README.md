@@ -5,7 +5,7 @@
 To get the binaries, backgrounds and palettes, download from one of 
 these two sources:
 
-[FF6hacking wiki](https://www.ff6hacking.com/wiki/doku.php?id=sprite:bgs)
+[FF6hacking wiki](https://www.ff6hacking.com/wiki/doku.php?id=sprite:bgs)\\
 [RHDN entry](http://www.romhacking.net/utilities/1321/)
 
 ## Palette Exporter
