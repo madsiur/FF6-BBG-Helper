@@ -1,6 +1,3 @@
-﻿// Author: Frederic Dupont <themadsiur@gmail.com>
-// Copyright 2017 Frederic Dupont
-
 // This file is part of EXPORTER (FF6 BBG palette Helper).
 
 // EXPORTER is free software: you can redistribute it and/or modify
